@@ -14,7 +14,7 @@ Para demostrarlo, desarrollé dos versiones de un pequeño juego RPG en Java. La
 ](URL_JAVASCRIPT)
 - **Ejemplo introductorio en JavaScript:** [https://stefannyestevezsolares.github.io/POLAexample2/
 ](URL_JAVASCRIPT)
-- **Presentación de Canva:** [Agregar enlace aquí](https://canva.link/s9weag9j3ku0y7t)
+- **Presentación de Canva:** [https://canva.link/s9weag9j3ku0y7t](URL_CANVA)
 
 ## Documentos del proyecto
 
